@@ -1,0 +1,21 @@
+Commands for arduino
+
+0: UltrasonicSensorData
+
+1: Move forward (Slow)
+
+2: Move forward (Fast)
+
+3: Turn Left
+
+4: Turn Right
+
+5: Reverse
+
+6: 
+
+7: 
+
+8:
+
+9: Stop Moving
