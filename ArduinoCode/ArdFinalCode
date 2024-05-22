@@ -5,8 +5,9 @@ const int M1c1 = 4;
 const int M1c2 = 5;
 const int M2Speed = 10;
 const int M2c1 = 6;
+
 const int M2c2 = 7;
-const int PingPin = 3;
+const int PingPin = 11;
 
 char Char;
 boolean newData = false;
